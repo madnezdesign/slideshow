@@ -8,9 +8,8 @@ appear in the html website template:
 
 <header>
 <div class='slideshow'>
-<img src="space.jpg" alt="space" class="first" />
-<img src="tree.jpg" alt="tree" />
-<img src="nature.jpg" alt="nature" />
+<img src="image" alt="space" class="first" />
+<img src="image" alt="nature" />
 </div>
 </header>
 
